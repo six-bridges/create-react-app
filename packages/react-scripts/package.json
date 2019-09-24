@@ -1,6 +1,6 @@
 {
   "name": "@six-bridges/react-scripts",
-  "version": "3.1.2",
+  "version": "1.0.0",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
